@@ -13,20 +13,21 @@ const Homepage = () => {
       <div className="bg-[url('/home_images/home_banner2.png')] mx-auto w-full h-full relative bg-cover bg-center "onClick={handleImageClick}>
         {!isVideoVisible ? (
           <div className="relative">
-            <img
+            <Image
               src="/home_images/home_banner.png "
               alt="Banner"
               className="w-full h-auto cursor-pointer bg-no-repeat "
               onClick={handleImageClick}
             />
             <div className="absolute inset-0 flex items-center justify-center">
-              <img
+              <Image
                 src="/home_images/play_button.svg"
                 alt="Play Button"
                 className="w-16 h-16 cursor-pointer bg-white rounded-full"
                 onClick={handleImageClick}
               />
             </div>
+            
           </div>
         ) : (
           <iframe

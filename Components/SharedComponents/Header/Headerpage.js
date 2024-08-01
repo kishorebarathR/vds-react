@@ -58,8 +58,9 @@ const Headerpage = () => {
           onClick={() => setDrawerOpen(!drawerOpen)}
           aria-label="Toggle Menu"
         >
-          <img src="/home_images/menu.svg" alt="Menu" />
+          <Image src="/home_images/menu.svg" alt="Menu" />
         </button>
+        
       </div>
 
       <div

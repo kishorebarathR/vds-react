@@ -30,7 +30,7 @@ const Journey = () => {
               />
             </div>
             <div className="justify-center flex">
-              <img className="" src="/sincere_images/si_3.png" />
+              <Image className="" src="/sincere_images/si_3.png" />
             </div>
             <Image
               width={80}
@@ -39,6 +39,7 @@ const Journey = () => {
               src="/sincere_images/quote_up.svg"
             />
           </div>
+
 
           <h6 className=" font-bold lg:w-32 lg:p-0 p-3">
             Currently, I am honoured to hold important positions such as the
