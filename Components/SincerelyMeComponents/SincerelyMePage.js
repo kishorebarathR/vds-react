@@ -33,6 +33,7 @@ const SincerelyMe = () => {
               height={100}
               className="w-96 p-0"
               src="/sincere_images/si_1.png"
+              alt="sincere_images"  
             />
             <h6 className="bg-[#9D9D9D] gap-0 text-white lg:p-6 p-10  lg:w-72 text-xl    ">
               “We need to strike a balance between sustainable development and
@@ -50,6 +51,7 @@ const SincerelyMe = () => {
               height={100}
               className="hidden lg:block top-0 mt-44 p-5 bottom-0 right-0 absolute me-20 "
               src="/sincere_images/si_2.png"
+              alt="sincere_images"  
             />
           </div>
         </div>

@@ -136,12 +136,12 @@ const Footerpage = () => {
             Profile Visitors
           </p>
           <div className="flex mb-5 justify-center py-5">
-            <Image width={20} height={50} src="/footer_images/0.gif" />
-            <Image width={20} height={50} src="/footer_images/0.gif" />
-            <Image width={20} height={50} src="/footer_images/0.gif" />
-            <Image width={20} height={50} src="/footer_images/5.gif" />
-            <Image width={20} height={50} src="/footer_images/9.gif" />
-            <Image width={20} height={50} src="/footer_images/1.gif" />
+            <Image width={20} height={50} src="/footer_images/0.gif" alt="footer_images"  />
+            <Image width={20} height={50} src="/footer_images/0.gif"alt="footer_images"   />
+            <Image width={20} height={50} src="/footer_images/0.gif" alt="footer_images"  />
+            <Image width={20} height={50} src="/footer_images/5.gif"alt="footer_images"   />
+            <Image width={20} height={50} src="/footer_images/9.gif"alt="footer_images"   />
+            <Image width={20} height={50} src="/footer_images/1.gif"alt="footer_images"   />
           </div>
         </div>
       </div>

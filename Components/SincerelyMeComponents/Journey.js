@@ -12,6 +12,7 @@ const Journey = () => {
             height={50}
             className=" flex justify-center"
             src="/sincere_images/quote_up.svg"
+            alt="sincere_images"
           />
           <h6 className=" font-bold lg:w-32 mt-4 lg:p-0 p-3">
             “As a Leader of Opposition, the diligent research and homework that
@@ -27,19 +28,24 @@ const Journey = () => {
                 height={50}
                 className="p-3"
                 src="/sincere_images/quote_down.svg"
+                alt="sincere_images"
               />
             </div>
             <div className="justify-center flex">
-              <Image className="" src="/sincere_images/si_3.png" />
+              <Image
+                className=""
+                src="/sincere_images/si_3.png"
+                alt="sincere_images"
+              />
             </div>
             <Image
               width={80}
               height={50}
               className="mt-4 mb-4"
               src="/sincere_images/quote_up.svg"
+              alt="sincere_images"
             />
           </div>
-
 
           <h6 className=" font-bold lg:w-32 lg:p-0 p-3">
             Currently, I am honoured to hold important positions such as the
@@ -54,6 +60,7 @@ const Journey = () => {
                 height={50}
                 className="p-3"
                 src="/sincere_images/quote_down.svg"
+                alt="sincere_images"
               />
             </div>
             <div className="justify-center flex">
@@ -62,6 +69,7 @@ const Journey = () => {
                 height={50}
                 className=""
                 src="/sincere_images/si_4.png"
+                alt="sincere_images"
               />
             </div>
 
@@ -72,6 +80,7 @@ const Journey = () => {
                   height={50}
                   className="mt-10 "
                   src="/sincere_images/quote_up.svg"
+                  alt="sincere_images"
                 />
                 {/* <!--  Desktop view --> */}
                 <p className=" text-white lg:w-32 hidden lg:block text-xl ">
@@ -133,6 +142,7 @@ const Journey = () => {
                   width={600}
                   height={300}
                   src="/sincere_images/family.png"
+                  alt="sincere_images"
                 />
               </div>
             </div>
@@ -142,6 +152,7 @@ const Journey = () => {
               width={600}
               height={300}
               src="/sincere_images/thiruvanadhapuram-vds-speech.png"
+              alt="sincere_images"
               data-aos="fade-in"
               data-aos-duration="800"
             />
@@ -224,6 +235,7 @@ const Journey = () => {
               width={700}
               height={400}
               className="w-full"
+              alt="sincere_images"
               src="/sincere_images/bg_gray.svg"
             />
             <div className="relative">
@@ -306,6 +318,7 @@ const Journey = () => {
                   height={100}
                   className="absolute right-0 bottom-0 h-96 hidden lg:block me-3"
                   src="/sincere_images/award_and_record_.png"
+                  alt="sincere_images"
                 />
               </div>
               <div

@@ -50,6 +50,7 @@ const Homepage = () => {
               height={350}
               src="/home_images/vds_video_img.png"
               className="h-full  w-[89vh]"
+              alt="" 
             />
           </div>
 
